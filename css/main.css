@@ -1,0 +1,16 @@
+html {
+  background-color: #c9b6af;
+  color: #b96f80;
+  font-family: PT Sans;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+head {
+  color: #3c321f;
+}
+
+nav ol:hover {
+color: #3c321f;
+}
